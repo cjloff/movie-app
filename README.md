@@ -1,5 +1,5 @@
-# movie-app
-#Movie Filter App using https://www.themoviedb.org/ api
+# Movie app with filter
+## Movie Filter App using https://www.themoviedb.org/ api
 
 This project uses the Vue.js CLI as a starting point, to get it up and running clone down and run the following commands:
 
@@ -7,3 +7,5 @@ This project uses the Vue.js CLI as a starting point, to get it up and running c
 $ npm install
 $ npm run dev
 ```
+
+Once you have done this it will run the application at `http://localhost:8080` :)
