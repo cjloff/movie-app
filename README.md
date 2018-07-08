@@ -1,5 +1,11 @@
-# Movie app with filter
-## Movie Filter App using https://www.themoviedb.org/ api
+## Movie app with filter
+
+- Uses https://www.themoviedb.org/ api
+- Filterable by `vote_average`
+- Displays Now Playing movies ordered by `popularity`
+- Each film shows the title, poster and the genres it belongs to
+
+## Instructions
 
 This project uses the Vue.js CLI as a starting point, to get it up and running clone down and run the following commands:
 
